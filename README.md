@@ -1,21 +1,30 @@
-# Discord-Random-Facts-Bot
+# Discord-Random-Facts-Bot (v1.0.0)
 
 ### Created by Amir Adrian Amir Hamzah (2021)
+
+## Techonologies
+
+1. Node.js
+1. Heroku (Free Bot Hosting)
 
 ## Description
 
 My very first Discord bot project to test out my coding abilities in JavaScript. This is a Discord bot that sends a random fact fetched by API upon command. I do not have any intention to run this bot online for global and online usage, but the bot code is provided for everyone to run locally (the [setup guide](#setup-guide) is below) on their computers.
 
+### !UPDATE!
+
+I have decided to use Heroku to host the bot online (though its only active for 500 hours a month). Invite the bot by going to my [website](https://edenfrey.github.io/).
+
 ## Enviromental Variables
 
 ### BOT_TOKEN
 
-This is the token found in your Discord Application. Store it in a .env file to keep it a secret.
+This is the token found in your Discord Application. Store it in a .env file to keep it a secret. If you are hosting it on the web (ex. Heroku), put it in the built-in environmental variables storage.
 
 
-## Setup Guide
+## Setup Guide (For local running)
 
-We are going to run this bot locally and for us to do so we need to go through a few hurdles (they're easy if you are a tech wiz). If you run into an issue feel free to contact me by joining my [Discord](http://bit.ly/edenfreydiscord). 
+FORK THE ENTIRE REPO FIRST! If you run into an issue feel free to contact me by joining my [Discord](http://bit.ly/edenfreydiscord). 
 
 ### Prerequisites
 
