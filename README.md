@@ -17,6 +17,12 @@ A Discord bot that provides random facts simply by typing a few commands to show
 
 My very first Discord bot project to test out my coding abilities in JavaScript. This is a Discord bot that sends a random fact fetched by API upon command. If you wish to run the bot locally, the bot's source code can be forked/downloaded for your own use (credits are much appreciated). check out the full [setup guide](#setup-guide) for assistance on how to use the code.
 
+## Demo
+
+<video width="320" height="240" controls>
+  <source src="assets/demo.mp4" type="video/mp4">
+</video>
+
 ## Enviromental Variables
 
 ### BOT_TOKEN
