@@ -5,15 +5,16 @@
 ### !UPDATE! v1.1.0
 
 I have decided to use Heroku to host the bot online (though its only active for 500 hours a month). Invite the bot by going to my [website](https://edenfrey.github.io/discord-random-facts-bot-website/).
+
 ## Techonologies
 
 1. Node.js
 1. Heroku (Bot Hosting)
-    1. Environment Variables
+   1. Environment Variables
+
 ## Description
 
 A Discord bot that provides random facts simply by typing a few commands to show-of to your friends on how knowledgeable you are (eventhough deep down you know you are not).
-
 
 My very first Discord bot project to test out my coding abilities in JavaScript. This is a Discord bot that sends a random fact fetched by API upon command. If you wish to run the bot locally, the bot's source code can be forked/downloaded for your own use (credits are much appreciated). check out the full [setup guide](#setup-guide) for assistance on how to use the code.
 
